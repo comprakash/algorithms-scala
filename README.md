@@ -19,3 +19,14 @@ Algorithms and Data Structures in Scala
 
 https://docs.scala-lang.org/overviews/collections/performance-characteristics.html
 
+## Project Execution
+
+### Compile Code
+$ `sbt compile`
+
+### Run Tests
+$ `sbt test`
+
+## Useful Links
+
+https://www.bigocheatsheet.com/
